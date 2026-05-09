@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kamlesh Pathak 👋
 
-<!--
-**kamleshpathak07/kamleshpathak07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer with 3+ years of experience building scalable APIs, backend systems, and cloud-based applications using .NET Core, Azure, and SQL Server.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- ASP.NET Core
+- C#
+- Azure
+- SQL Server
+- REST APIs
+- JWT Authentication
+- Background Services
+- Caching & Rate Limiting
+- CI/CD Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Interests
+- Distributed Systems
+- Backend Architecture
+- Performance Optimization
+- System Design
+- Scalable Infrastructure
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/kamlesh-07
+- GitHub: https://github.com/kamleshpathak07
