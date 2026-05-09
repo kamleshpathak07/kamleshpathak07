@@ -1,6 +1,6 @@
 # Hi, I'm Kamlesh Pathak 👋
 
-Backend Engineer with 3+ years of experience building scalable APIs, backend systems, and cloud-based applications using .NET Core, Azure, and SQL Server.
+Backend Engineer with 3.8 years of experience building scalable APIs, backend systems, and cloud-based applications using .NET Core, Azure, and SQL Server.
 
 ## 🚀 Tech Stack
 - ASP.NET Core
